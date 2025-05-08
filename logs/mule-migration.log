@@ -41,3 +41,7 @@
 2025-05-08T23:28:58.654+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.XmlConsumerService        : Consumed Product : Product(productId=983, name= Laptop , price=300083.0) 
 2025-05-08T23:29:08.655+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.SchedulerService          : Migration Check Executed
 2025-05-08T23:29:08.660+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.XmlConsumerService        : Consumed Product : Product(productId=983, name= Laptop , price=300083.0) 
+2025-05-08T23:29:18.648+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.SchedulerService          : Migration Check Executed
+2025-05-08T23:29:18.653+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.XmlConsumerService        : Consumed Product : Product(productId=983, name= Laptop , price=300083.0) 
+2025-05-08T23:29:28.640+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.SchedulerService          : Migration Check Executed
+2025-05-08T23:29:28.644+05:30  INFO 13148 --- [mule-migration] [scheduling-1] c.e.m.services.XmlConsumerService        : Consumed Product : Product(productId=983, name= Laptop , price=300083.0) 

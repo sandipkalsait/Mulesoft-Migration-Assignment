@@ -117,4 +117,4 @@ The application properties can be configured in `src/main/resources/application.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENCE]([https://www.apache.org/licenses/LICENSE-2.0](https://github.com/sandipkalsait/Mulesoft-Migration-Assignment?tab=Apache-2.0-1-ov-file)) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENCE]([https://github.com/sandipkalsait/Mulesoft-Migration-Assignment?tab=Apache-2.0-1-ov-file]) file for details.

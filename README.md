@@ -21,8 +21,7 @@ Mule Migration Service is a Spring Boot application designed to demonstrate XML 
 
 ## Project Structure
 
-Proof of Concept (POC) drive link:
-https://drive.google.com/drive/folders/1V9J9ApyMeJmoAMlvc_OV0KXqzBzeRHak?usp=sharing
+
 
 ```
 src/
